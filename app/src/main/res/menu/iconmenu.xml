@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/course"
+        android:icon="@drawable/course"
+        android:title="Courses"
+        />
+    <item android:id="@+id/invite"
+        android:icon="@drawable/share"
+        android:title="Invite friends"
+        />
+    <item android:id="@+id/contectus"
+        android:icon="@drawable/contectus"
+        android:title="Contect Us"
+        />
+</menu>
